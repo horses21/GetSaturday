@@ -8,6 +8,11 @@ public static void main(String[] args) {
 		
 		System.out.println("xyz");
 		
+	//Change made mt. at team member
+	
+	public static void addnum(int1, int2);
+	
+	
 	
 	
 }
